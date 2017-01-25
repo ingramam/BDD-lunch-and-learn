@@ -43,7 +43,16 @@ __Then:__ The purpose of Then steps is to observe outcomes.
 - Break sub-tasks into BDD scenarios
 
 
-### __SpecFlow__
+### [__SpecFlow__](http://specflow.org/getting-started/)
 - BDD testing framework that is part of Cucumber family and uses Gherkin parser
 - Allows us to write our acceptance criteria using DSL and map to executable code
 - [Features, Scenarios](https://github.com/cucumber/cucumber/wiki/Feature-Introduction), and [steps](https://github.com/cucumber/cucumber/wiki/Given-When-Then)
+  - feature files and step definitions
+- Regex in Given-When-Then
+  - allow reuse with minimal effort
+- tags (@myTag)
+  - used to filter scenarios and control execution (BeforeScenario)
+- [hooks](http://specflow.org/documentation/Hooks/)
+  - same type of setup/tear-down as other testing frameworks
+
+Implement example for user story above (Consultant re-enrollment)
