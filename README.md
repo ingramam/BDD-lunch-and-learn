@@ -1,7 +1,9 @@
 # BDD Lunch and Learn
-This repository contains materials related to a lunch-and-learn presentation on the topic of Behavior-Driven Development and acceptance testing with Specflow.
+This repository contains materials related to a lunch-and-learn presentation on the topic of Behavior-Driven Development and acceptance testing with SpecFlow.
 
-[Presentation Outline](Outline.md)
+[Presentation Outline](Outline.md)<br/>
+[PowerPoint Slides](BDD.pptx)<br/>
+[SpecFlow Documentation](http://specflow.org/documentation/)
 
 ### __Souces__
 - [Introducing BDD - https://dannorth.net/introducing-bdd/](https://dannorth.net/introducing-bdd/)
